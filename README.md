@@ -9,6 +9,21 @@
 
 This project was made using laravel and for database used MySQL(php my admin)
 
+Coverd all Functionality Like
+
+Product Read, Update, Delete, Insert
+
+Point of Sale Page:-
+
+Customer Selection: Implement a dropdown menu populated with static values to facilitate the selection of customers.
+
+Product Search and Addition: Integrate a search bar on the POS screen, to search products. Selected products should be added to the transaction.
+
+Discount Application: Include an option to apply discounts to the transaction.
+
+Upon clicking the 'Save' button, all relevant data, including customer information, selected products, and applied discounts, is saved.
+Additionally,a dedicated page to display a table of all invoices generated through the POS screen.  
+
 
 ## Add All Database
 
